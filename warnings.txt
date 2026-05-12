@@ -1,0 +1,11 @@
+CMU-DCL53;AuxiliaryNonCompliant.java;4;FIELD_DEC;FIELD es.uniovi.reflection.dcl_53.noncompliant.OtherAuxNonCompliant otherAux
+CMU-DCL53;OtherAuxNonCompliant.java;4;FIELD_DEC;FIELD int field
+CMU-DCL53;DCL_53Noncompliant.java;4;FIELD_DEC;FIELD int twoCondsIfElseAsUncondAssign
+CMU-DCL53;DCL_53Noncompliant.java;5;FIELD_DEC;FIELD int uncondAssignInIf
+CMU-DCL53;DCL_53Noncompliant.java;6;FIELD_DEC;FIELD int twoUncondsThisAndLocalVar
+CMU-DCL53;DCL_53Noncompliant.java;7;FIELD_DEC;FIELD int twoUncondsThisAndField
+CMU-DCL53;DCL_53Noncompliant.java;8;FIELD_DEC;FIELD int twoMethodsOneCondAssign
+CMU-DCL53;DCL_53Noncompliant.java;9;FIELD_DEC;FIELD int twoUncondAssignInIf
+CMU-DCL53;DCL_53Noncompliant.java;10;FIELD_DEC;FIELD int oneUncondPublicInNonPublicClass
+CMU-DCL53;DCL_53Noncompliant.java;11;FIELD_DEC;FIELD int uncondInLoop
+CMU-DCL53;DCL_53NonCompliantInner.java;8;FIELD_DEC;FIELD int attr
